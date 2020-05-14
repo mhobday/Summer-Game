@@ -39,7 +39,7 @@ Material:
     m_Floats:
     - _EnableExternalAlpha: 0
     - _Flicker: 0
-    - _Intensity: 2
+    - _Intensity: 1
     m_Colors:
     - Color_45B16BB4: {r: 4, g: 0.3137255, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
